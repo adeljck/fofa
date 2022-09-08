@@ -1,7 +1,7 @@
 name: fofa
 version: 0.0.1
 description: A Simple FoFa Pro API Client
-repository: https://github.com/adeljck/FoFa-Pro-Client.git
+repository: https://github.com/adeljck/fofa.git
 
 environment:
   sdk: '>=2.14.0 <3.0.0'
